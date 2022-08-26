@@ -1,0 +1,23 @@
+{
+  "name": "mercado_liebre",
+  "version": "1.0.0",
+  "description": "segundo proyecto web mercado_liebre",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XmauricioX/mercado_liebre.git"
+  },
+  "author": "mauricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XmauricioX/mercado_liebre/issues"
+  },
+  "homepage": "https://github.com/XmauricioX/mercado_liebre#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
